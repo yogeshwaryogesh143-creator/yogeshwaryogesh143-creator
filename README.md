@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="./assets/profile.jpg" alt="Yogeshwar C Madalageri" width="280" />
-</p>
+<div align="center">
+
+![Yogeshwar C Madalageri](./assets/profile.jpg)
+
+</div>
 
 # 👋 Hi, I'm Yogeshwar C Madalageri
 
