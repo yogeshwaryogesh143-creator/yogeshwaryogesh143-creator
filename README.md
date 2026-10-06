@@ -1,6 +1,6 @@
 <div align="center">
 
-![Yogeshwar C Madalageri](https://raw.githubusercontent.com/yogeshwaryogesh143-creator/yogeshwaryogesh143-creator/main/assets/profile.jpg)
+<img src="https://raw.githubusercontent.com/yogeshwaryogesh143-creator/yogeshwaryogesh143-creator/main/assets/profile.jpg" alt="Yogeshwar C Madalageri" width="280" />
 
 </div>
 
