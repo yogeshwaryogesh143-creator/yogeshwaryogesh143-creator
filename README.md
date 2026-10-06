@@ -1,4 +1,6 @@
-<img align="right" src="./assets/profile.jpg" alt="Yogeshwar C Madalageri" width="280" style="border-radius:50%" />
+<p align="center">
+  <img src="./assets/profile.jpg" alt="Yogeshwar C Madalageri" width="280" />
+</p>
 
 # 👋 Hi, I'm Yogeshwar C Madalageri
 
