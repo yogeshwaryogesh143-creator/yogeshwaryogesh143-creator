@@ -1,3 +1,5 @@
+<img align="right" src="./assets/profile.jpg" alt="Yogeshwar C Madalageri" width="280" style="border-radius:50%" />
+
 # 👋 Hi, I'm Yogeshwar C Madalageri
 
 **B.Tech AIML Student • Developer • AI/ML Enthusiast**
