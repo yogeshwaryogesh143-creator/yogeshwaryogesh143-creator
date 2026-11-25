@@ -136,6 +136,18 @@ When I'm not coding, I enjoy:
 
 ---
 
+## 🧊 3D Contribution Graph
+
+<div align="center">
+
+![3D contribution graph](./profile-3d-contrib/profile-season-animate.svg)
+
+</div>
+
+> This graph is generated daily by GitHub Actions.
+
+---
+
 ## 🐍 My Contributions
 
 ![Snake animation](https://raw.githubusercontent.com/yogeshwaryogesh143-creator/yogeshwaryogesh143-creator/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
