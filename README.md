@@ -1,160 +1,71 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yogeshwaryogesh143-creator/yogeshwaryogesh143-creator/main/assets/profile.jpg" alt="Yogeshwar C Madalageri" width="280" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,55:2563EB,100:7C3AED&height=220&section=header&text=Yogeshwar%20C%20Madalageri&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=18&descAlignY=59" alt="Yogeshwar C Madalageri — Full-Stack Developer and AI/ML Enthusiast" width="100%" />
+
+### Building useful things with code, curiosity, and a little bit of AI.
+
+<a href="https://github.com/yogeshwaryogesh143-creator"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/yogeshwar-yogesh-0a8018379/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/y0ge5hwa6_1_2_/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+📍 India &nbsp;·&nbsp; 🎓 B.Tech Computer Science, AI & Machine Learning &nbsp;·&nbsp; 🤝 Open to collaborations
 
 </div>
 
-# 👋 Hi, I'm Yogeshwar C Madalageri
-
-**B.Tech AIML Student • Developer • AI/ML Enthusiast**
-
-![Location](https://img.shields.io/badge/Location-India-247bff?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-AI%2FML%20%26%20Full--Stack%20Development-ff3354?style=for-the-badge)
-![Open to](https://img.shields.io/badge/Open%20to-Collabs%20%26%20Projects-070b16?style=for-the-badge&logo=github)
-
-[![GitHub](https://img.shields.io/badge/GitHub-@yogeshwaryogesh143--creator-181717?style=social&logo=github)](https://github.com/yogeshwaryogesh143-creator)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yogeshwar-0A66C2?style=social&logo=linkedin)](https://www.linkedin.com/in/yogeshwar-yogesh-0a8018379/)
-[![Instagram](https://img.shields.io/badge/Instagram-@y0ge5hwa6__1__2-E4405F?style=social&logo=instagram)](https://www.instagram.com/y0ge5hwa6_1_2_/)
-
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a **B.Tech Computer Science student specializing in Artificial Intelligence and Machine Learning**. I enjoy building practical software projects, learning new technologies, and exploring how AI can be used to solve real-world problems.
+I'm a computer science student focused on **AI/ML and full-stack development**. I enjoy learning by building: designing interfaces, connecting APIs and databases, and turning ideas into working applications.
 
-I'm currently developing my skills in **full-stack development, databases, AI/ML, and software engineering** while working on projects and participating in hackathons.
+- 🌱 Currently growing my skills in React, Node.js, databases, and applied AI
+- 🧩 Interested in practical web products and developer tools
+- 🚀 Always learning, building, and looking for good problems to solve
 
-### What I do
-
-* 🤖 Artificial Intelligence & Machine Learning
-* 💻 Full-stack web development
-* ⚛️ React and modern frontend development
-* 🟢 Node.js and Express backend development
-* 🗄️ Database design and development
-* 🚀 Building real-world projects
-* 🏆 Participating in hackathons and tech events
-* 📚 Continuously learning new technologies
-
----
-
-## 🛠️ Tech Stack
-
-### Programming
-
-* Java
-* JavaScript
-* Python
-* SQL
-
-### Frontend
-
-* HTML
-* CSS
-* JavaScript
-* React
-* React Router
-* Material UI
-
-### Backend
-
-* Node.js
-* Express.js
-* REST APIs
-
-### Databases
-
-* MongoDB
-* PostgreSQL
-* Prisma
-
-### AI / ML
-
-* Python
-* Artificial Intelligence
-* Machine Learning
-* Generative AI
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Postman
-* Vercel
-* GitHub Codespaces
-
----
-
-## 🚀 Projects
-
-| **Project**    | **Description**                                                                                 | **Technology**          |
-| -------------- | ----------------------------------------------------------------------------------------------- | ----------------------- |
-| 🍔 FoodFacts   | A product information application built with modern React development practices.                | React, Redux, MUI       |
-| 🛒 QuickCart   | An e-commerce project with cart management, routing and persistent state.                       | React, JavaScript       |
-| 🏫 CampusFix   | A campus problem reporting platform that helps students report and track infrastructure issues. | React, Node.js, MongoDB |
-| 🌍 CountryPeek | A web application for exploring country information through an interactive interface.           | React, API              |
-
----
-
-## 🎯 Current Goals
-
-* 🤖 Deepen my knowledge of AI and Machine Learning
-* 💻 Become a stronger full-stack developer
-* 🚀 Build useful real-world applications
-* 🏆 Participate in more hackathons
-* 🌐 Contribute to open-source projects
-* 📈 Improve my problem-solving and coding skills
-* 🎓 Successfully complete my B.Tech journey
-
----
-
-## 🏀 Beyond Coding
-
-When I'm not coding, I enjoy:
-
-* 🎵 Listening to songs
-* 🏀 Playing basketball
-* 💡 Exploring new technology
-* 👥 Spending time with friends
-* 🚀 Working on new ideas
-
----
-
-## 🤝 Connect With Me
-
-* 💻 **GitHub:** [yogeshwaryogesh143-creator](https://github.com/yogeshwaryogesh143-creator)
-* 🔗 **LinkedIn:** [Yogeshwar](https://www.linkedin.com/in/yogeshwar-yogesh-0a8018379/)
-* 📸 **Instagram:** [@y0ge5hwa6_1_2_](https://www.instagram.com/y0ge5hwa6_1_2_/)
-
----
-
-## 📊 GitHub Stats
-
-![Yogeshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yogeshwaryogesh143-creator&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshwaryogesh143-creator&layout=compact&theme=tokyonight)
-
----
-
-## 🧊 3D Contribution Graph
+## Tech I work with
 
 <div align="center">
 
-![3D contribution graph](./profile-3d-contrib/profile-season-animate.svg)
+<img src="https://skillicons.dev/icons?i=java,js,python,react,html,css,nodejs,express,mongodb,postgres,prisma,git,github,vscode,postman&perline=8" alt="Java, JavaScript, Python, React, HTML, CSS, Node.js, Express, MongoDB, PostgreSQL, Prisma, Git, GitHub, VS Code and Postman" />
 
 </div>
 
-> This graph is generated daily by GitHub Actions.
+## Selected projects
+
+| Project | What it explores | Stack |
+| --- | --- | --- |
+| [Backend-Web-Development](https://github.com/yogeshwaryogesh143-creator/Backend-Web-Development) | A book management REST API with CRUD endpoints | Express · MongoDB · Mongoose |
+| [bookmarkbox-api](https://github.com/yogeshwaryogesh143-creator/bookmarkbox-api) | Authentication and personal bookmark API | Express · PostgreSQL · Prisma |
+| [streamly-api](https://github.com/yogeshwaryogesh143-creator/streamly-api) | A streaming API learning project for channels and videos | Express · MongoDB · Mongoose |
+
+## My GitHub, in 3D
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-season-animate.svg" alt="Animated 3D visualization of my GitHub contributions" width="100%" />
+
+*My contribution calendar as a 3D landscape · refreshed automatically*
+
+</div>
+
+## GitHub stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yogeshwaryogesh143-creator&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=7C3AED" alt="Yogeshwar's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshwaryogesh143-creator&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used programming languages" />
+
+</div>
 
 ---
 
-## 🐍 My Contributions
+<div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/yogeshwaryogesh143-creator/yogeshwaryogesh143-creator/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://raw.githubusercontent.com/yogeshwaryogesh143-creator/yogeshwaryogesh143-creator/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+### Let's build something useful.
 
----
+<a href="https://github.com/yogeshwaryogesh143-creator">Explore my repositories</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/yogeshwar-yogesh-0a8018379/">Connect on LinkedIn</a>
 
-⭐ **Thanks for visiting my profile!**
+<sub>Thanks for stopping by — keep learning, keep building. ✨</sub>
 
-*Keep learning. Keep building. Keep growing. 🚀*
+</div>
